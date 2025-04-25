@@ -14,3 +14,7 @@ This content is freely available for:
   ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+##  Contributor
+
+- **Dr. Vaishali A Harsulkar**  
+  Author of this text and supporter of open Marathi NLP resources.
