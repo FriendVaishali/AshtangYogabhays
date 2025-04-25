@@ -18,3 +18,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 - **Dr. Vaishali A Harsulkar**  
   Author of this text and supporter of open Marathi NLP resources.
+  ## Acknowledgements
+
+Inspired by open data initiatives like IndicNLP and AI4Bharat.
+
